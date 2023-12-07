@@ -1,28 +1,33 @@
 <h1 align="center">Hello, I'm Shabnam</h1>
 <h3 align="center">Fresher | Java Developer | Full Stack Developer </h3>
 
-<h1 align="center">About Me</h1>
+<h1 align="center">About Me 💫 </h1>
 
 <h4 align="center">I'm currently persuing the Masters Degree in Computer Application and have completed Bachelor's degree in Computer Application.
 I am proficient in programming languages such as Core Java, C, JavaScript, Bootstrap, Node.js, React.js, MySQL, and so on.
 I've completed 3 months of Internship as a Software Developer Intern at Info Origin Technologies Pvt. Ltd.
 I'm looking for the opportunity where I can utilize my knowledge and upgrade myself. I want to see myself as a software developer in a reputed company.</h4>
+
 <br>
 
-<h4 align="center">💡 I'm Currently Working On</h4>
+<h3 align="center">💡 I'm Currently Working On</h3>
 <h4 align="center">Enhancing web development skills across backend, frontend, and database optimization. Exploring advanced concepts for better user experiences and responsive design in web applications.</h4>
+
 <br>
 
 <h4 align="center">🤝 I'm Looking to Collaborate On</h4>
 <h4 align="center">Engaging in projects that leverage my expertise in programming languages like Java, C, JavaScript, and frameworks such as React.js and Node.js. Interested in contributing to innovative software development initiatives, particularly in web application development.</h4>
+
 <br>
 
 <h4 align="center">🚀 I'm Looking to Help With</h4>
 <h4 align="center">Gaining insights into scaling software, optimizing performance, mastering advanced frameworks, and adopting best practices in software development methodologies.</h4>
+
 <br>
 
 <h4 align="center">📚 I'm Currently Learning</h4>
 <h4 align="center">Continuously expanding knowledge across various aspects of software development to stay updated with industry trends and advancements.</h4>
+
 <br>
 
 <h4 align="center">❓ Ask Me About</h4>
