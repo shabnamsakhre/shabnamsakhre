@@ -35,7 +35,6 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
 
 <p align="center">
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabnamsakhre)
 </p>
 
