@@ -15,29 +15,32 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
 
 <br>
 
-<h4 align="center">🤝 I'm Looking to Collaborate On</h4>
+<h3 align="center">🤝 I'm Looking to Collaborate On</h3>
 <h4 align="center">Engaging in projects that leverage my expertise in programming languages like Java, C, JavaScript, and frameworks such as React.js and Node.js. Interested in contributing to innovative software development initiatives, particularly in web application development.</h4>
 
 <br>
 
-<h4 align="center">🚀 I'm Looking to Help With</h4>
+<h3 align="center">🚀 I'm Looking to Help With</h3>
 <h4 align="center">Gaining insights into scaling software, optimizing performance, mastering advanced frameworks, and adopting best practices in software development methodologies.</h4>
 
 <br>
 
-<h4 align="center">📚 I'm Currently Learning</h4>
+<h3 align="center">📚 I'm Currently Learning</h3>
 <h4 align="center">Continuously expanding knowledge across various aspects of software development to stay updated with industry trends and advancements.</h4>
 
 <br>
 
-<h4 align="center">❓ Ask Me About</h4>
+<h3 align="center">❓ Ask Me About</h3>
 <h4 align="center">Anything related to software development, programming languages like Java, C, JavaScript, and frameworks such as React.js and Node.js. Also, my internship experiences and academics.</h4>
+
 <br>
 
 
-
 <h1 align="center"> Socials 🌐  </h1>
+<h4 align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabnamsakhre)
+</h4>
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabnamsakhre)
