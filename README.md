@@ -1,4 +1,4 @@
-Hello, I'm Shabnam
+<h1 align="center">Hello, I'm Shabnam</h1>
 <h2 align="center">Fresher | Java Developer | Full Stack Developer </h2>
 
 <h1 align="center">About Me 💫 </h1>
