@@ -15,7 +15,7 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
 
 <h4 align="center">🤝 I'm Looking to Collaborate On</h4>
 <h4 align="center">Engaging in projects that leverage my expertise in programming languages like Java, C, JavaScript, and frameworks such as React.js and Node.js. Interested in contributing to innovative software development initiatives, particularly in web application development.</h4>
-<br
+<br>
 
 <h4 align="center">🚀 I'm Looking to Help With</h4>
 <h4 align="center">Gaining insights into scaling software, optimizing performance, mastering advanced frameworks, and adopting best practices in software development methodologies.</h4>
@@ -32,11 +32,13 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
 
 
 <h1 align="center"> Socials 🌐  </h1>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabnamsakhre)
 
 
 <br>
 <h1 align="center">Technology Stack 💻  </h1>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -65,6 +67,7 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
 
 <h4 align="center">Github Stats</h4>
 <p align="center">
+  
   ![](https://github-readme-stats.vercel.app/api?username=shabnamsakhre&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=shabnamsakhre&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnamsakhre&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -72,6 +75,7 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
 
 <br>
 <h1 align="center">GitHub Trophies 🏆 </h1>
+
 ![](https://github-profile-trophy.vercel.app/?username=shabnamsakhre&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
