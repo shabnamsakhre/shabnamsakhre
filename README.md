@@ -9,6 +9,8 @@
 </h4>
 -->
 
+<br>
+
 <h1 align="center">About Me 💫 </h1>
 
 <h4 align="center">I'm currently persuing the Masters Degree in Computer Application and have completed Bachelor's degree in Computer Application.
