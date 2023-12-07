@@ -1,6 +1,13 @@
 <h1 align="center">Hello, I'm Shabnam</h1>
 <h2 align="center">Fresher | Java Developer | Full Stack Developer </h2>
 
+<!--
+<h4 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
+</h4>
+-->
+
 <h1 align="center">About Me 💫 </h1>
 
 <h4 align="center">I'm currently persuing the Masters Degree in Computer Application and have completed Bachelor's degree in Computer Application.
@@ -76,7 +83,6 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
   
   ![](https://github-readme-stats.vercel.app/api?username=shabnamsakhre&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=shabnamsakhre&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnamsakhre&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </h4>
 
 <br>
@@ -89,4 +95,7 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
 ---
 [![](https://visitcount.itsvg.in/api?id=shabnamsakhre&icon=0&color=0)](https://visitcount.itsvg.in)
 </h4>
-<hr>
+<!-- <hr> -->
+<p>
+<img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+</p>
