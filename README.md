@@ -74,7 +74,7 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
 <h4 align="center">Github Stats</h4>
 <h4 align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=shabnamsakhre&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=shabnamsakhre&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=shabnamsakhre&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabnamsakhre&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </h4>
@@ -82,9 +82,11 @@ I'm looking for the opportunity where I can utilize my knowledge and upgrade mys
 <br>
 
 <h1 align="center">GitHub Trophies 🏆 </h1>
-
+<h4 align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=shabnamsakhre&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shabnamsakhre&icon=0&color=0)](https://visitcount.itsvg.in)
+</h4>
 <hr>
