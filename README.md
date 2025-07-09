@@ -1,6 +1,6 @@
 ![Header](./Git-Cover.png)
 
-<h2 align="center">Fresher | Java Developer | Full Stack Developer </h2>
+<h2 align="center">Fresher | MERN | Full Stack Developer </h2>
 
 <!--
 <h4 align="center">
@@ -13,8 +13,8 @@
 
 <h1 align="center">About Me 💫 </h1>
 
-<h4 align="center">I'm currently persuing the Masters Degree in Computer Application and have completed Bachelor's degree in Computer Application.
-I am proficient in programming languages such as Core Java, C, JavaScript, Bootstrap, Node.js, React.js, MySQL, and so on.
+<h4 align="center">I have completed the Masters Degree in Computer Application.
+I am proficient in technologies such as MERN, Core Java, C, JavaScript, Bootstrap, Node.js, React.js, MySQL, and so on.
 I've completed 3 months of Internship as a Software Developer Intern at Info Origin Technologies Pvt. Ltd.
 I'm looking for the opportunity where I can utilize my knowledge and upgrade myself. I want to see myself as a software developer in a reputed company.</h4>
 
